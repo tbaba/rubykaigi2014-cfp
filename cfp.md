@@ -57,12 +57,3 @@ Grooves Inc. / Programmer
 # Do you need a Visa?
 
 NO
-
-# Any comments? (English or Japanese)
-
-運営ありがとうございます。
-こういう場にCFPを提出するのは初めてですが、もっと良いコードを書くために、具体例を出しつつ
-RailsとRubyの関係を説明するセッションがあってもいいのかも、と思ったのでCFPにして提出しました。
-どうぞよろしくお願いします。
-
-発表は20日以外の日程を希望します。
